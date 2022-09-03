@@ -1,5 +1,0 @@
-<?php
-
-print "php code!!";
-
-?>
